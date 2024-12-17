@@ -43,3 +43,23 @@ img:hover
   line-height: 300%;
   border-color: purple;
 }
+button {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+    font-weight: bold;
+}
+
+button {
+    background: green;
+    color: white;
+    box-shadow: 0 4px 10px black;
+}
+
+button:hover {
+    background: dark-green;
+    transform: scale(1.1);
+}
