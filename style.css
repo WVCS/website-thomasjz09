@@ -63,3 +63,24 @@ button:hover {
     background: dark-green;
     transform: scale(1.1);
 }
+ul
+{
+  list-style: none;
+  background-color: white;
+  padding: 10px;
+}
+li
+{
+  display: inline;
+  padding: 10px 50px;
+}
+a
+{
+  text-decoration: none;
+  color: darkgreen;
+  font-variant: small-caps;
+}
+a:hover
+{
+  font-size: 200%;
+}
